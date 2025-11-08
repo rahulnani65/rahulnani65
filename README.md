@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I’m a 4th-year Computer Science and AI undergrad
 - Innovative tech solutions that solve real-world problems.
 
 ## 💻 Skills
-- **Languages**: Python, JavaScript, C++, SQL, HTML/CSS
+- **Languages**: Python, JavaScript, C++, SQL, HTML/CSS,Go
 - **Frameworks/Tools**: Django, Flask, Git, PostgreSQL, Render
 - **Areas of Interest**: Software Development, Database Management, Web Technologies
 
